@@ -9,6 +9,7 @@
 
 ## Пример структуры
 - Contest/problems
+  
   -A
     - solution1.cpp
     - generator_test_case.cpp
