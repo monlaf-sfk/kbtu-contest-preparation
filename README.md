@@ -12,6 +12,8 @@
   -A
     - solution1.cpp
     - generator_test_case.cpp
+  
+
 statements и tests  не нужно .
 
 - Используйте понятное и консистентное именование файлов (например `solution.cpp`).
